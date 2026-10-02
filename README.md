@@ -65,5 +65,5 @@ Product Information → Product Profile → Market Selection → Regulatory Mapp
 
 ## Built With
 
-Next.js • TypeScript • AI workflows • Gemini AOI 
+Next.js • TypeScript • AI workflows • Gemini API 
 AI-powered product launch readiness assessment platform
