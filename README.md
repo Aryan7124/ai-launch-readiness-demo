@@ -34,34 +34,34 @@ Product Information → Product Profile → Market Selection → Regulatory Mapp
 ## Product Walkthrough
 
 ### 1. Product Landing
-![Product Landing](screenshots/1_front.png)
+![Product Landing](1_front.png)
 
 ### 2. Upload Product
-![Upload Product](screenshots/2_upload_product_description.png)
+![Upload Product](2_upload_product_description.png)
 
 ### 3. Product Profile
-![Product Profile](screenshots/3_product_profile.png)
+![Product Profile](3_product_profile.png)
 
 ### 4. Market Selection
-![Market Selection](screenshots/4_market_selection.png)
+![Market Selection](4_market_selection.png)
 
 ### 5. Assessment
-![Assessment](screenshots/5_assessment.png)
+![Assessment](5_assessment.png)
 
 ### 6. Questions
-![Questions](screenshots/6_question.png)
+![Questions](6_question.png)
 
 ### 7. Gap Analysis
-![Gap Analysis](screenshots/7_gap_analysis.png)
+![Gap Analysis](7_gap_analysis.png)
 
 ### 8. Recommendations
-![Recommendations](screenshots/8_recommendation.png)
+![Recommendations](8_recommendation.png)
 
 ### 9. Executive Dashboard
-![Executive Dashboard](screenshots/9_dashboard.png)
+![Executive Dashboard](9_dashboard.png)
 
 ### 10. Report
-![Report](screenshots/10_report.png)
+![Report](10_report.png)
 
 ## Built With
 
