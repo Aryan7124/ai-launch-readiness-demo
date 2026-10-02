@@ -37,7 +37,7 @@ Product Information → Product Profile → Market Selection → Regulatory Mapp
 ![Product Landing](1_front.png)
 
 ### 2. Upload Product
-![Upload Product](2_upload_product.png)
+![Upload Product](2_upload_product_descrpition.png)
 
 ### 3. Product Profile
 ![Product Profile](3_product_profile.png)
